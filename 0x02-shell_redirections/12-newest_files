@@ -1,2 +1,2 @@
 #!/bin/bash
-ls 1t | head -10
+$ ls sample_directory/ Artls | tail -1
